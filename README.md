@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Felipe Walteros</h1>
-<h3 align="center">Backend Developer | Python | Linux | Cybersecurity</h3>
+<h3 align="center">Backend Developer | Python | Automation | APIs</h3>
 
 - 💻 Building backend solutions with Python and Linux
 - 🌐 Passionate about Python, backend development and Cybersecurity.
