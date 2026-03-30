@@ -40,6 +40,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=walterosdev&theme=default&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=0969da" />
 </p>
+<div align="center">
+  <p>Built and maintained by walterosdev</p>
+</div>
 
 
 ## 🇪🇸 Sobre mí 
