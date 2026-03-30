@@ -28,10 +28,6 @@
  ## 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walterosdev&show_icons=true&theme=default&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=0969da" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterosdev&layout=compact&theme=default&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=0969da" />
 </p>
 
