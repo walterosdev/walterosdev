@@ -1,3 +1,5 @@
+<img width="1734" height="906" alt="ChatGPT Image 30 mar 2026, 03_33_33 p m" src="https://github.com/user-attachments/assets/da9325f0-1621-45ad-a01a-4831d57f6f36" />
+
 <h1 align="center">🚀 Felipe Walteros</h1>
 <h3 align="center">Backend Developer | Python | Automation | APIs</h3>
 
